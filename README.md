@@ -31,4 +31,4 @@ Skills & Experience:
 
 - Familiarity with RESTful APIs
 
-- Knowledge of popular React.js is a plus  (such as Flux or Redux).
+- Knowledge of popular React.js is a big plus
